@@ -1,0 +1,44 @@
+ /* body {
+     background-image: url("../images/background.png"); 
+    
+}
+.col-sm{
+	background-color:burlywood;
+	margin: 10px;
+	width: 50%;}
+
+
+	.header{ font-size: 150%;
+		background-color:orange;
+		text-align: center;}
+.col-sm2{
+	background-color:blue;
+	height: 100px;
+	width: 100px;
+}
+		.col-sm1{
+			background-color:
+			green;
+		}
+		
+		.userTotal{
+			background-color:cyan;
+			width: 100px;
+			height: 100px;
+			display: inline-block;
+		} */
+	
+.gems{height: 250px;
+	width: 500px;
+
+}
+.blue{
+	height:100px;
+	width: 25%;
+float:left;
+}
+.green,.red,.yellow{
+	
+	height: 100px;
+
+}
