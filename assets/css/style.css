@@ -1,4 +1,4 @@
- /* body {
+ body {
      background-image: url("../images/background.png"); 
     
 }
@@ -26,19 +26,10 @@
 			width: 100px;
 			height: 100px;
 			display: inline-block;
-		} */
+		} 
 	
-.gems{height: 250px;
-	width: 500px;
-
-}
-.blue{
+.gems{
 	height:100px;
-	width: 25%;
-float:left;
+	margin:1px;
 }
-.green,.red,.yellow{
-	
-	height: 100px;
 
-}
